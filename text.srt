@@ -1,0 +1,464 @@
+1
+00:00:01,610 --> 00:00:04,850
+so how does the<font color="#CCCCCC"> internet work</font><font color="#E5E5E5"> most of us</font>
+
+2
+00:00:04,850 --> 00:00:06,830
+know how to use the<font color="#CCCCCC"> internet</font><font color="#E5E5E5"> without</font>
+
+3
+00:00:06,830 --> 00:00:08,990
+actually<font color="#CCCCCC"> understanding how it works sort</font>
+
+4
+00:00:08,990 --> 00:00:11,240
+of like<font color="#E5E5E5"> electricity in your home you use</font>
+
+5
+00:00:11,240 --> 00:00:12,889
+<font color="#E5E5E5">it every day</font><font color="#CCCCCC"> but may not understand the</font>
+
+6
+00:00:12,889 --> 00:00:15,589
+mechanics<font color="#E5E5E5"> behind it and if the electric</font>
+
+7
+00:00:15,589 --> 00:00:17,360
+grid<font color="#CCCCCC"> is difficult to understand then the</font>
+
+8
+00:00:17,360 --> 00:00:20,270
+<font color="#E5E5E5">internet must be impossible</font><font color="#CCCCCC"> right</font><font color="#E5E5E5"> wrong</font>
+
+9
+00:00:20,270 --> 00:00:23,000
+in the next few minutes<font color="#E5E5E5"> I'll put you</font><font color="#CCCCCC"> in</font>
+
+10
+00:00:23,000 --> 00:00:24,320
+<font color="#E5E5E5">the top</font><font color="#CCCCCC"> 10 percent of people who</font>
+
+11
+00:00:24,320 --> 00:00:25,730
+understand<font color="#E5E5E5"> how the internet actually</font>
+
+12
+00:00:25,730 --> 00:00:28,670
+works<font color="#E5E5E5"> for</font><font color="#CCCCCC"> security</font><font color="#E5E5E5"> catalyst</font><font color="#CCCCCC"> comm I'm</font>
+
+13
+00:00:28,670 --> 00:00:32,479
+<font color="#E5E5E5">Aaron Titus whenever most people think</font>
+
+14
+00:00:32,479 --> 00:00:34,220
+<font color="#E5E5E5">of the Internet this</font><font color="#CCCCCC"> is what</font><font color="#E5E5E5"> comes to</font>
+
+15
+00:00:34,220 --> 00:00:37,550
+mind<font color="#E5E5E5"> the</font><font color="#CCCCCC"> Internet is not a bubble cloud</font>
+
+16
+00:00:37,550 --> 00:00:39,730
+even<font color="#CCCCCC"> in the new age</font><font color="#E5E5E5"> of cloud computing</font>
+
+17
+00:00:39,730 --> 00:00:42,440
+<font color="#E5E5E5">the whole fuzzy cloud picture was</font>
+
+18
+00:00:42,440 --> 00:00:43,880
+created by<font color="#E5E5E5"> people more concerned about</font>
+
+19
+00:00:43,880 --> 00:00:48,170
+job security<font color="#CCCCCC"> than education</font><font color="#E5E5E5"> this is the</font>
+
+20
+00:00:48,170 --> 00:00:50,560
+<font color="#CCCCCC">Internet</font><font color="#E5E5E5"> the Internet is a wire actually</font>
+
+21
+00:00:50,560 --> 00:00:53,330
+<font color="#CCCCCC">buried in</font><font color="#E5E5E5"> the ground</font><font color="#CCCCCC"> it might be fiber</font>
+
+22
+00:00:53,330 --> 00:00:55,730
+optics copper or occasionally beamed to
+
+23
+00:00:55,730 --> 00:00:57,020
+satellites or through cell phone
+
+24
+00:00:57,020 --> 00:00:59,420
+networks but the<font color="#CCCCCC"> Internet is</font><font color="#E5E5E5"> simply a</font>
+
+25
+00:00:59,420 --> 00:01:02,720
+wire the<font color="#CCCCCC"> Internet is useful because two</font>
+
+26
+00:01:02,720 --> 00:01:04,430
+computers<font color="#CCCCCC"> connected directly</font><font color="#E5E5E5"> to this</font>
+
+27
+00:01:04,430 --> 00:01:07,010
+wire can communicate a server is a
+
+28
+00:01:07,010 --> 00:01:09,170
+special<font color="#E5E5E5"> computer connected directly to</font>
+
+29
+00:01:09,170 --> 00:01:11,660
+<font color="#E5E5E5">the</font><font color="#CCCCCC"> Internet and</font><font color="#E5E5E5"> web</font><font color="#CCCCCC"> pages are files on</font>
+
+30
+00:01:11,660 --> 00:01:15,020
+that<font color="#E5E5E5"> servers hard drive every server has</font>
+
+31
+00:01:15,020 --> 00:01:17,210
+a unique Internet Protocol address<font color="#CCCCCC"> or</font><font color="#E5E5E5"> IP</font>
+
+32
+00:01:17,210 --> 00:01:20,180
+address<font color="#CCCCCC"> just</font><font color="#E5E5E5"> like a postal address IP</font>
+
+33
+00:01:20,180 --> 00:01:22,120
+<font color="#CCCCCC">addresses help computers find each other</font>
+
+34
+00:01:22,120 --> 00:01:26,930
+<font color="#E5E5E5">but since 72 1412 I've done</font><font color="#CCCCCC"> 100</font><font color="#E5E5E5"> it</font>
+
+35
+00:01:26,930 --> 00:01:29,270
+doesn't exactly roll<font color="#CCCCCC"> off the tongue</font><font color="#E5E5E5"> we</font>
+
+36
+00:01:29,270 --> 00:01:31,659
+also give them names<font color="#CCCCCC"> like google.com</font>
+
+37
+00:01:31,659 --> 00:01:34,659
+<font color="#E5E5E5">facebook.com or security catalyst</font><font color="#CCCCCC"> comm</font>
+
+38
+00:01:34,659 --> 00:01:38,090
+<font color="#E5E5E5">so this is how it works your computer at</font>
+
+39
+00:01:38,090 --> 00:01:40,430
+<font color="#E5E5E5">home is not a server because</font><font color="#CCCCCC"> it's not</font>
+
+40
+00:01:40,430 --> 00:01:42,430
+connected<font color="#CCCCCC"> directly to the Internet</font>
+
+41
+00:01:42,430 --> 00:01:44,510
+computers you and I use<font color="#CCCCCC"> everyday are</font>
+
+42
+00:01:44,510 --> 00:01:46,610
+called clients because they're<font color="#E5E5E5"> connected</font>
+
+43
+00:01:46,610 --> 00:01:48,440
+indirectly to the<font color="#E5E5E5"> Internet through an</font>
+
+44
+00:01:48,440 --> 00:01:50,810
+Internet service<font color="#E5E5E5"> provider here we'll</font>
+
+45
+00:01:50,810 --> 00:01:52,700
+pretend<font color="#E5E5E5"> that this is my home laptop and</font>
+
+46
+00:01:52,700 --> 00:01:55,790
+I'm using<font color="#E5E5E5"> DSL now let's pretend that I</font>
+
+47
+00:01:55,790 --> 00:01:57,710
+want to visit<font color="#E5E5E5"> aol.com</font><font color="#CCCCCC"> which is</font>
+
+48
+00:01:57,710 --> 00:02:00,560
+<font color="#CCCCCC">coincidentally both a server and an ISP</font>
+
+49
+00:02:00,560 --> 00:02:04,400
+<font color="#E5E5E5">I hop onto my</font><font color="#CCCCCC"> laptop with DSL go through</font>
+
+50
+00:02:04,400 --> 00:02:06,860
+<font color="#E5E5E5">my ISP onto the internet and look at</font>
+
+51
+00:02:06,860 --> 00:02:09,770
+aol.com<font color="#E5E5E5"> my computer connects with AOL</font>
+
+52
+00:02:09,770 --> 00:02:12,130
+<font color="#E5E5E5">comm and I can look at</font><font color="#CCCCCC"> this</font><font color="#E5E5E5"> web pages</font>
+
+53
+00:02:12,130 --> 00:02:14,810
+<font color="#E5E5E5">now let's say that I want to send an</font>
+
+54
+00:02:14,810 --> 00:02:15,410
+email
+
+55
+00:02:15,410 --> 00:02:18,920
+and Ruth and<font color="#CCCCCC"> Ruth has AOL dial-up from</font>
+
+56
+00:02:18,920 --> 00:02:23,360
+home and I've got a gmail account<font color="#CCCCCC"> I log</font>
+
+57
+00:02:23,360 --> 00:02:26,000
+on<font color="#E5E5E5"> to gmail.com and compose a message to</font>
+
+58
+00:02:26,000 --> 00:02:28,130
+Aunt Ruth's<font color="#E5E5E5"> email address</font><font color="#CCCCCC"> Ann true that</font>
+
+59
+00:02:28,130 --> 00:02:31,640
+<font color="#CCCCCC">lol calm once I</font><font color="#E5E5E5"> click send gmail.com</font>
+
+60
+00:02:31,640 --> 00:02:35,210
+<font color="#E5E5E5">since the email to a</font><font color="#CCCCCC"> o L calm the</font><font color="#E5E5E5"> next</font>
+
+61
+00:02:35,210 --> 00:02:38,300
+day Aunt<font color="#E5E5E5"> Ruth dials into AOL servers and</font>
+
+62
+00:02:38,300 --> 00:02:41,690
+retrieves the email whenever an email
+
+63
+00:02:41,690 --> 00:02:43,760
+picture or<font color="#CCCCCC"> webpage travels across</font><font color="#E5E5E5"> the</font>
+
+64
+00:02:43,760 --> 00:02:46,190
+<font color="#CCCCCC">internet computers break the information</font>
+
+65
+00:02:46,190 --> 00:02:49,070
+<font color="#E5E5E5">into smaller pieces called packets when</font>
+
+66
+00:02:49,070 --> 00:02:51,020
+<font color="#CCCCCC">information reaches its destination the</font>
+
+67
+00:02:51,020 --> 00:02:52,430
+packets are reassembled in their
+
+68
+00:02:52,430 --> 00:02:54,680
+original<font color="#CCCCCC"> order to make a picture</font><font color="#E5E5E5"> email</font>
+
+69
+00:02:54,680 --> 00:02:57,880
+<font color="#E5E5E5">web page or tweet</font>
+
+70
+00:02:58,290 --> 00:03:00,970
+<font color="#E5E5E5">okay so imagine you're at work sitting</font>
+
+71
+00:03:00,970 --> 00:03:02,410
+<font color="#E5E5E5">next to your boss and you're both</font>
+
+72
+00:03:02,410 --> 00:03:05,200
+surfing online<font color="#E5E5E5"> your boss is</font><font color="#CCCCCC"> doing market</font>
+
+73
+00:03:05,200 --> 00:03:06,940
+research<font color="#E5E5E5"> and you're updating your</font>
+
+74
+00:03:06,940 --> 00:03:09,520
+<font color="#CCCCCC">Facebook</font><font color="#E5E5E5"> profile you're both sending</font>
+
+75
+00:03:09,520 --> 00:03:11,310
+packets back and forth over<font color="#E5E5E5"> the Internet</font>
+
+76
+00:03:11,310 --> 00:03:13,870
+<font color="#E5E5E5">but what's to keep your packets from</font>
+
+77
+00:03:13,870 --> 00:03:15,760
+accidentally ending up on your<font color="#E5E5E5"> boss's</font>
+
+78
+00:03:15,760 --> 00:03:19,150
+<font color="#E5E5E5">screen that could be embarrassing</font><font color="#CCCCCC"> the</font>
+
+79
+00:03:19,150 --> 00:03:21,520
+solution to that problem<font color="#E5E5E5"> is IP addresses</font>
+
+80
+00:03:21,520 --> 00:03:24,459
+<font color="#E5E5E5">and routers everything connected</font>
+
+81
+00:03:24,459 --> 00:03:26,470
+directly<font color="#E5E5E5"> or indirectly to the Internet</font>
+
+82
+00:03:26,470 --> 00:03:29,350
+has<font color="#E5E5E5"> an IP address everything that</font>
+
+83
+00:03:29,350 --> 00:03:31,360
+includes your computer servers<font color="#E5E5E5"> cell</font>
+
+84
+00:03:31,360 --> 00:03:33,160
+phones and all of the equipment<font color="#CCCCCC"> in</font>
+
+85
+00:03:33,160 --> 00:03:36,280
+between<font color="#CCCCCC"> anywhere two or more parts of</font>
+
+86
+00:03:36,280 --> 00:03:38,200
+<font color="#E5E5E5">the</font><font color="#CCCCCC"> internet intersect</font><font color="#E5E5E5"> there's a piece</font>
+
+87
+00:03:38,200 --> 00:03:41,110
+of<font color="#CCCCCC"> equipment called a router</font><font color="#E5E5E5"> routers</font>
+
+88
+00:03:41,110 --> 00:03:42,940
+direct your packets<font color="#E5E5E5"> around the</font><font color="#CCCCCC"> internet</font>
+
+89
+00:03:42,940 --> 00:03:44,950
+helping each packet get one step closer
+
+90
+00:03:44,950 --> 00:03:47,470
+<font color="#E5E5E5">to</font><font color="#CCCCCC"> its destination every time you visit</font>
+
+91
+00:03:47,470 --> 00:03:49,660
+<font color="#E5E5E5">a website upwards of ten to fifteen</font>
+
+92
+00:03:49,660 --> 00:03:51,580
+routers may help<font color="#E5E5E5"> your packets find their</font>
+
+93
+00:03:51,580 --> 00:03:54,489
+way to<font color="#CCCCCC"> and from</font><font color="#E5E5E5"> your computer</font><font color="#CCCCCC"> imagine</font>
+
+94
+00:03:54,489 --> 00:03:56,680
+each packet as a piece<font color="#E5E5E5"> of candy wrapped</font>
+
+95
+00:03:56,680 --> 00:03:59,080
+<font color="#E5E5E5">in several layers the first layer</font><font color="#CCCCCC"> is</font>
+
+96
+00:03:59,080 --> 00:04:02,140
+your computer's IP address your computer
+
+97
+00:04:02,140 --> 00:04:03,820
+sends the packet<font color="#CCCCCC"> to the first router</font>
+
+98
+00:04:03,820 --> 00:04:07,209
+which adds its own<font color="#E5E5E5"> IP address each time</font>
+
+99
+00:04:07,209 --> 00:04:09,310
+the packet reaches a new router another
+
+100
+00:04:09,310 --> 00:04:11,140
+layer is<font color="#E5E5E5"> added until it reaches</font><font color="#CCCCCC"> the</font>
+
+101
+00:04:11,140 --> 00:04:13,299
+server then when the server sends back
+
+102
+00:04:13,299 --> 00:04:14,200
+<font color="#CCCCCC">information</font>
+
+103
+00:04:14,200 --> 00:04:16,209
+<font color="#E5E5E5">it creates packets with an identical</font>
+
+104
+00:04:16,209 --> 00:04:18,399
+wrapping as the packet makes its way
+
+105
+00:04:18,399 --> 00:04:19,959
+<font color="#E5E5E5">over</font><font color="#CCCCCC"> the</font><font color="#E5E5E5"> internet back to your computer</font>
+
+106
+00:04:19,959 --> 00:04:22,780
+<font color="#CCCCCC">each router</font><font color="#E5E5E5"> unwraps a layer to discover</font>
+
+107
+00:04:22,780 --> 00:04:24,700
+where to send<font color="#E5E5E5"> the packet next until it</font>
+
+108
+00:04:24,700 --> 00:04:26,500
+reaches<font color="#E5E5E5"> your computer and not your</font>
+
+109
+00:04:26,500 --> 00:04:30,100
+bosses<font color="#E5E5E5"> and that's how the internet works</font>
+
+110
+00:04:30,100 --> 00:04:32,290
+<font color="#E5E5E5">in five minutes or less</font><font color="#CCCCCC"> and you're now</font>
+
+111
+00:04:32,290 --> 00:04:34,060
+<font color="#CCCCCC">easily in the top 10 percent of people</font>
+
+112
+00:04:34,060 --> 00:04:35,560
+who understand the basics of<font color="#E5E5E5"> the</font>
+
+113
+00:04:35,560 --> 00:04:37,750
+<font color="#CCCCCC">Internet</font><font color="#E5E5E5"> if you found this video helpful</font>
+
+114
+00:04:37,750 --> 00:04:40,330
+<font color="#CCCCCC">check out security</font><font color="#E5E5E5"> catalyst comm for all</font>
+
+115
+00:04:40,330 --> 00:04:42,220
+kinds<font color="#CCCCCC"> of ideas on how to protect your</font>
+
+116
+00:04:42,220 --> 00:00:00,000
+<font color="#CCCCCC">information I'm</font><font color="#E5E5E5"> Aaron Titus</font>
+
